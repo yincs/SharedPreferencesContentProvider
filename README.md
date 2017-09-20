@@ -1,9 +1,9 @@
 # SharedPreferencesContentProvider
 封装的跨进程的SharedPreferences。用android原生的SharedPreferences和ContentProvider实现。
 
-sp_provider:核心库，只有两个类，实际使用时可以直接复制过去
-app：要共享配置的app
-app2：跨进程使用实例
+sp_provider:核心库，只有两个类，实际使用时可以直接复制过去</br>
+app：要共享配置的app</br>
+app2：跨进程使用实例</br>
 
 
     /**
